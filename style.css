@@ -550,7 +550,7 @@
 
 .section_10 .input {
   width: 100%;
-  background-color: rgb(242, 229, 223);
+/*   background-color: rgb(242, 229, 223); */
   height: 60px;
   border-top-width: 1px;
   border-right-width: 1px;
@@ -611,7 +611,7 @@
   border-image-width: initial;
   border-image-outset: initial;
   border-image-repeat: initial;
-  background-color: rgb(242, 229, 223);
+/*   background-color: rgb(242, 229, 223); */
   padding-top: 10px;
   padding-right: 12px;
   padding-bottom: 10px;
